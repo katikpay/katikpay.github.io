@@ -387,6 +387,7 @@ span {
 
 .stream_buttons_list ul li {
     margin-bottom: 10px;
+    margin-left: -25px
 }
 
 .stream_buttons a{
